@@ -1,22 +1,22 @@
-# 🏠 House Price Prediction
+# 🏡 Housing Prices Data Analysis
 
-This project uses Linear Regression to predict house prices based on features like area, bedrooms, and bathrooms.
+This project analyzes a dataset of housing prices using Python. The goal is to understand how different features (like area, year built, number of rooms) affect housing prices.
 
-## 🔧 Tools Used
+## 🚀 Tools Used
 - Python
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- scikit-learn
+- Pandas & NumPy
+- Seaborn & Matplotlib for visualization
 
-## 📈 Key Steps
-1. Data Cleaning & Preprocessing
-2. Data Visualization
-3. Model Training (Linear Regression)
-4. Model Evaluation (R² Score, MSE)
+## 📊 Key Insights
+- Correlation between price and features
+- Distribution of housing prices
+- Missing values and data cleaning
 
-## 📊 Outcome
-- Achieved R² Score: ~0.70
-- Used feature importance to explain predictions
-# House-price-prediction-
+## 📁 Files
+- `sample_house_prices.csv`: Sample dataset
+- `housing_price_analysis.ipynb`: Analysis notebook
+
+## 🧠 Learnings
+- Data loading, cleaning, exploration
+- Visualization and feature relationships
+- Ready for beginner machine learning models
